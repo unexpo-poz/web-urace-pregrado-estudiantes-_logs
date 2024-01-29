@@ -1,0 +1,14 @@
+
+*:[29/01/2024 10:35:28.20][172.16.10.157] Inicio Consulta: 18886435 - 
+*:[29/01/2024 10:35:28.20][172.16.10.157][130] SELECT exp_e,carrera,nombres,nombres2,apellidos,apellidos2,estatus_e  FROM dace002 a, tblaca010 b WHERE ci_e='18886435' AND a.c_uni_ca=b.c_uni_ca AND estatus_e='1' AND (lapso_in<>'2023-2' OR a.c_ingreso='2')  [1][0] OK
+C:[29/01/2024 10:35:29.25][172.16.10.157][141] SELECT userid FROM usuarios WHERE userid='08-18886435' AND password='e9d8fd1a46b1cb02f90e7eb7e1c07377' [0][0] OK
+C:[29/01/2024 10:35:29.25][172.16.10.157][147] SELECT password FROM usuarios WHERE tipo_usuario='1510' AND password='e9d8fd1a46b1cb02f90e7eb7e1c07377' [1][0] OK
+*:[29/01/2024 10:35:28.20][172.16.10.157] Finaliza consulta: 18886435
+
+
+*:[29/01/2024 10:37:19.01][172.16.10.157] Inicio Consulta: 18886435 - 
+*:[29/01/2024 10:37:19.01][172.16.10.157][130] SELECT exp_e,carrera,nombres,nombres2,apellidos,apellidos2,estatus_e  FROM dace002 a, tblaca010 b WHERE ci_e='18886435' AND a.c_uni_ca=b.c_uni_ca AND estatus_e='1' AND (lapso_in<>'2023-2' OR a.c_ingreso='2')  [1][0] OK
+C:[29/01/2024 10:37:21.56][172.16.10.157][141] SELECT userid FROM usuarios WHERE userid='08-18886435' AND password='e9d8fd1a46b1cb02f90e7eb7e1c07377' [0][0] OK
+C:[29/01/2024 10:37:21.56][172.16.10.157][147] SELECT password FROM usuarios WHERE tipo_usuario='1510' AND password='e9d8fd1a46b1cb02f90e7eb7e1c07377' [1][0] OK
+*:[29/01/2024 10:37:19.01][172.16.10.157] Finaliza consulta: 18886435
+
