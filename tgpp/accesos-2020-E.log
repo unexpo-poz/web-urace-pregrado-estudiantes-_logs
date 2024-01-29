@@ -1,0 +1,8 @@
+C:[01/12/2020 14:25:34.64][172.16.4.230][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='17631265'  [1][0] OK
+C:[01/12/2020 14:29:45.07][172.16.4.230][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='17361265'  [0][0] OK
+C:[01/12/2020 14:36:12.67][172.16.4.230][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='17631265'  [1][0] OK
+C:[01/12/2020 14:37:02.39][172.16.4.230][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='17631265'  [1][0] OK
+C:[01/12/2020 14:41:32.29][172.16.4.230][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='17631265'  [1][0] OK
+C:[25/01/2021 15:44:06.06][172.16.1.74][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='25678810'  [1][0] OK
+C:[25/01/2021 15:44:27.43][172.16.1.74][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='25678810'  [1][0] OK
+C:[25/01/2021 15:45:21.45][172.16.1.74][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='25678810'  [1][0] OK

@@ -1,0 +1,13 @@
+C:[17/08/2016 11:11:53.89][172.16.4.40][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='20807264'  [1][0] OK
+C:[24/08/2016 09:03:54.62][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='25124013'  [1][0] OK
+C:[08/09/2016 12:17:27.39][172.16.0.141][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='24482944'  [1][0] OK
+C:[19/09/2016 09:34:34.33][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='20934467'  [1][0] OK
+C:[19/09/2016 10:26:59.83][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='20023157'  [1][0] OK
+C:[22/09/2016 17:56:22.56][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='21497694'  [1][0] OK
+C:[04/10/2016 10:46:24.30][172.16.0.189][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='21198704'  [1][0] OK
+C:[05/10/2016 09:29:36.79][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='21380940'  [1][0] OK
+C:[05/10/2016 09:41:56.50][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='21380940'  [1][0] OK
+C:[06/10/2016 14:17:44.22][172.16.4.254][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='18666838'  [1][0] OK
+C:[18/10/2016 09:12:19.50][172.16.0.144][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='20886926'  [1][0] OK
+C:[18/10/2016 10:04:34.88][172.16.1.27][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='24039598'  [1][0] OK
+C:[18/10/2016 10:15:01.83][172.16.1.27][50]  SELECT ci_e, exp_e, nombres, apellidos,  pensum, c_uni_ca  FROM DACE002  WHERE ci_e='24039598'  [1][0] OK
